@@ -1,4 +1,4 @@
-package uk.co.alasdairnorth.insolator;
+package com.alnorth.insolator;
 
 import java.awt.BorderLayout;
 import java.awt.Container;

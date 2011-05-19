@@ -1,4 +1,4 @@
-package uk.co.alasdairnorth.insolator;
+package com.alnorth.insolator;
 
 import javax.swing.JFrame;
 import javax.swing.UIManager;

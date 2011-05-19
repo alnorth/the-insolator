@@ -1,4 +1,4 @@
-package uk.co.alasdairnorth.insolator;
+package com.alnorth.insolator;
 
 import java.io.File;
 import java.io.FileWriter;

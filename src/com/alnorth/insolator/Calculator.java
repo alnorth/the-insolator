@@ -1,4 +1,4 @@
-package uk.co.alasdairnorth.insolator;
+package com.alnorth.insolator;
 
 public interface Calculator<T extends CalculatorParameters, V extends CalculatorOutput> {
 

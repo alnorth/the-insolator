@@ -1,4 +1,4 @@
-package uk.co.alasdairnorth.insolator;
+package com.alnorth.insolator;
 
 public class OrbitDataCalculator implements Calculator<LatLonDateParameter, OrbitDataOutput> {
 	
